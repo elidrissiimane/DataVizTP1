@@ -58,7 +58,11 @@ Un diagramme de flux de déploiement trace le processus en termes de qui fait le
   </tr>
 </table>
 
-## Examples of flow Charts and Comments
+## Exemples de diagrammes de flus et commentaires
+
+### diagramme de flux fonctionnel croisé
 
 
 ## Sources
+[1] - https://www.edrawsoft.com/fr/
+[2] - https://fr.wikipedia.org/

@@ -9,7 +9,7 @@ Le diagramme de flux est un moyen pour présenter visuellement le flux de donné
 <table border="0">
   <tr>
     <td>
-      <img src="img/LampFlowchart.png" style="align:"center";">
+      <img src="img/LampFlowchart.png" "align:"center">
     </td>
   </tr>
 </table>

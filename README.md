@@ -5,7 +5,7 @@ A flowchart is a type of diagram that represents an algorithm, workflow or proce
 <table border="0">
   <tr>
     <td>
-      <img src="img\LampFlowchart.png" width="400" align="center">
+      <img src="img/LampFlowchart.png" align="center">
     </td>
   </tr>
 </table>

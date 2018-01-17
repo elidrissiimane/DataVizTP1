@@ -114,8 +114,6 @@ Un diagramme de flux de données (DFD) est une technique de modélisation import
 
 En outre, un DFD peut être utilisé pour visualiser le traitement de données ou un dessin structuré. Un DFD illustre des procédures de techniques ou d'affaires à l'aide de la boutique de données externe, des données découlant d'un processus à un autre, et des résultats.
 
-Un concepteur attire généralement un niveau DFD montrant la relation entre les entités à l'intérieur et à l'extérieur d'un système comme une seule étape. Ce DFD simple peut alors être désintégré à un diagramme de niveau inférieur démontrant petites étapes présentant les détails du système qui est modélisée. De nombreux niveaux peuvent être tenus d'expliquer un système compliqué.
-
 #### Exemples de diagramme de flux de données
 
 L'exemple suivant montre comment dessiner un diagramme de flux de données.
@@ -159,8 +157,6 @@ Le diagramme de niveau 1 identifie les principaux processus d'affaires à un niv
 Identifier les processus d'affaires existants en utilisant une technique comme des diagrammes de flux de données est un précurseur essentiel de processus de réingénierie, la migration vers les nouvelles technologies, ou à l'amélioration d'un processus d'entreprise existante. Cependant, le niveau de détail requis dépendra du type de changement à l'étude.
 
 Le modèle de processus est généralement utilisé dans l'analyse et la conception des méthodes structurées. Également appelé un diagramme de flux de données (DFD), elle montre le flux d'informations à travers un système. Chaque processus se transforme en sorties entrées.
-
-Le modèle commence généralement avec un diagramme de contexte montrant le système comme un seul diagramme de flux lié à des entités externes à l'extérieur de la limite du système. Ce processus explose à un niveau inférieur DFD qui divise le système en parties plus petites et équilibre le flux d'informations entre parents et enfants diagrammes. Beaucoup de niveaux de diagrammes peuvent être nécessaires pour exprimer un système complexe. Processus primitifs, ceux qui ne explosent pas à un diagramme enfant, sont généralement décrits dans une spécification textuelle connecté.
 
 ## Sources
 [1] - https://www.edrawsoft.com/fr/
